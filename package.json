@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HaysS/gotrue-js-functions/issues"
   },
-  "homepage": "https://github.com/HaysS/gotrue-js-functions#readme"
+  "homepage": "https://github.com/HaysS/gotrue-js-functions#readme",
+  "dependencies": {
+    "gotrue-js": "^0.9.25"
+  }
 }
